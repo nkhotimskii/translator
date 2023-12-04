@@ -1,0 +1,19 @@
+app.spec
+
+build
+dist/app.exe
+env
+
+installer.iss
+
+logs.log
+output.txt
+
+# GOOGLE API KEY
+numeric-chassis-362417-0fa07a6f7272.json
+
+__pycache__/
+*.pyo
+*.pyc
+
+session_store.json
